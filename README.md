@@ -1,10 +1,12 @@
 # PGM-implementation
 
-Implementation of Bayesian Networks through python's pgmpy package
+Implementation of Neuron Model through Danya Abbot's book 
 
-uses nodes of Difficulty of Grading scale and Standard test scores to get a grade
+uses nodes to represent neuronse
 
-and further uses that grade as a job predicted
+and further uses that to predict for tasks
+
+Does this by testing on certain jobs
 
 pgmpy creates this network as a Directed Acyclic Graph which is further used to infer various properties of the network
 
